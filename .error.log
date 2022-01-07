@@ -1,0 +1,35 @@
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+/home/akelany/Database_project/select_db.sh: line 4: cd: ./DBMS/customer: No such file or directory
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mv: cannot stat './DBMS/emplpoyees': No such file or directory
+mkdir: cannot create directory ‘DBMS’: File exists
+rm: cannot remove './DBMS/5': No such file or directory
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+/home/akelany/Database_project/select_db.sh: line 4: cd: ./DBMS/ee: No such file or directory
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
